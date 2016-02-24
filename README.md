@@ -12,7 +12,7 @@
 * Animal Crossing meets interactive fiction.
  
 #### Twitter Bots
-* Modus Poems. A bot that generates poems in the form ((P -> Q) && P) -> Q
+* Modus Poems. A bot that generates poems in the form ((P -> Q) && P) -> Q (Modus Ponens)
 * Searches for people saying "that's funny" and replies with various "LOL" type reponses
 * Dad joke bot
 
