@@ -18,3 +18,6 @@
 
 #### Humanity
 * Can/have humans evolved to not be able to handle certain kinds of trauma well?
+
+#### Venues
+* 'Chocolate Milk': Video game arcade that only serves chocolate milk.
