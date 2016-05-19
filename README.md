@@ -1,16 +1,15 @@
 # ideas
 
-#### Websites/App
+#### Interactive
 * Users write an entry to describe a scene/place and other users are able to draw what they see when they read the entry.
 * A way to read articles one line at a time. Dims/fades other lines so that you can focus on the single line.
 * Website/App to enter 3 good things about that day. 
 * Synthesia extension. Sets every letter/number to have a specific color for that letter/number. Attempting to emulate the preception of [Grapheme-color Synthesia](https://en.wikipedia.org/wiki/Grapheme_%E2%86%92_color_synesthesia). 
 * Website full of journal entries of a fictional character and his stories about the world he lives in.
 * 2D line animations in Three.js and an editor to allow you to keyframe animations.
-
-#### Games
 * VR game where you just interact with the environment. Maybe very surreal interactions.
 * Animal Crossing meets interactive fiction.
+* VR garden
  
 #### Twitter Bots
 * Modus Poems. A bot that generates poems in the form ((P -> Q) && P) -> Q (Modus Ponens)
