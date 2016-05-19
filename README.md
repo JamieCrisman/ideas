@@ -10,6 +10,7 @@
 * VR game where you just interact with the environment. Maybe very surreal interactions.
 * Animal Crossing meets interactive fiction.
 * VR garden
+* Synth that takes samples and uses machine learning to generate other sounds.
  
 #### Twitter Bots
 * Modus Poems. A bot that generates poems in the form ((P -> Q) && P) -> Q (Modus Ponens)
