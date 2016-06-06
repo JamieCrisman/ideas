@@ -11,6 +11,7 @@
 * Animal Crossing meets interactive fiction.
 * VR garden
 * Synth that takes samples and uses machine learning to generate other sounds.
+* sunrise alarm. App that you set an alarm relative to when the sun rises.
  
 #### Twitter Bots
 * Modus Poems. A bot that generates poems in the form ((P -> Q) && P) -> Q (Modus Ponens)
